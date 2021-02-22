@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/OS-Linux-lightgrey?logo=557C94)
+![](https://img.shields.io/badge/OS-Linux-lightgrey?logo=Linux)
 
-![](https://img.shields.io/static/v1?style=plastic)
