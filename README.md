@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
-  https://img.shields.io/endpoint?url=<URL>?style=plastic&logo=appveyor<STYLE>
+
