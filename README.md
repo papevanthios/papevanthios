@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/OS-Linux-lightgrey?logo=appveyor)
+![](https://img.shields.io/badge/OS-Linux-lightgrey?logo=557C94)
