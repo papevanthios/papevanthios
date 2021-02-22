@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-lightgrey?logo=557C94)
 
-![](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?label=OS&message=Linux&logo=kali&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
