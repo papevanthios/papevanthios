@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/OS-Kali%20Linux-lightgrey?style=plastic&logo=kali-linux&logoColor=white&logoWidth=20) ![](https://img.shields.io/badge/IDE-VS%20Code-lightgrey?style=plastic&logo=visual-studio&logoColor=white&logoWidth=20)
+![](https://img.shields.io/badge/OS-Kali%20Linux-lightgrey?style=plastic&logo=kali-linux&logoColor=white&logoWidth=15) ![](https://img.shields.io/badge/IDE-VS%20Code-lightgrey?style=plastic&logo=visual-studio&logoColor=white&logoWidth=15)
 
 
