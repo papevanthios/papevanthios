@@ -2,7 +2,7 @@
 - - - -
 <p><em>Graduation December 2021 from <a href="https://www.ceid.upatras.gr/">University of Patras</a></em></p>
 
-- 🖥️ I’m currently looking for work as a Software Enginner.
+- 🖥️ I’m currently open to work as a Software Enginner.
 - 🌱 I’m currently learning Data Structures and Algorithms using Java.
 
 <!--
