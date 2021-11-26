@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Linkedin: papevanthios](https://img.shields.io/badge/-papevanthios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/papevanthios/)](https://www.linkedin.com/in/papevanthios/)
 [![GitHub papevanthios](https://img.shields.io/github/followers/papevanthios?label=follow&style=social)](https://github.com/papevanthios)
 ![](https://visitor-badge.glitch.me/badge?page_id=papevanthios.papevanthios)
+![](https://www.codewars.com/users/EvanthiosPapadopoulos/badges/micro)
